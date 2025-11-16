@@ -20,19 +20,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Projeto Verdon ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Agente virtual para responder e tirar dúvidas dos clientes, franqueados e revendedores da empresa. Um avatar para as redes sociais para engajar o público sempre ativo.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Para o agente utilizei a CrewAi com integração no WhatsApp e Telegram(exclusivo para franqueados). Para o avatar utilizei o LeonardoAI para gerar a foto e a plataforma Heygen para animar e dar a voz do avatar. Assim sempre tem conteúdos novos.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foi muito legal. Como já tinha utilizado ass plataformas anteriormente foi rápido o desenvolvimento.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Resultados excelentes. Pois já tinha utilizado a plataforma da CrewAi anteriormente para criar 3 agentes. Um especialista em encontrar pontos de oportunidade de Ponto de Venda, outro para encontrar possíveis novos franqueados, revendedores e investidores, o outro Agente e ficado em atrair mais clientes.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
